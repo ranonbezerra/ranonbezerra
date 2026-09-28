@@ -10,10 +10,10 @@ Most of my professional work lives in private client repositories, so this page 
 Sole engineer on the platform. Modeled the payment-order state machine across 90+ use cases, built multi-layered GPS anti-spoofing with biometric check-in, and replaced a 30-second SQL view with an event-driven partitioned table answering in under 50ms.
 
 **Trezya** · multi-tenant healthcare billing platform · NestJS, FastAPI, PostgreSQL, zkSync Era, AWS
-Founder and only engineer. A 13-state billing event lifecycle generating XSD-compliant TISS XML, async blockchain anchoring with an event indexer reconciling on-chain state back to PostgreSQL, and an AI risk-scoring engine that fails open so it never blocks the billing path.
+Founding engineer. A 13-state billing event lifecycle generating XSD-compliant TISS XML, async blockchain anchoring with an event indexer reconciling on-chain state back to PostgreSQL, and an AI risk-scoring engine that fails open so it never blocks the billing path.
 
-**Slate** · AI gaming companion, in active development · FastAPI, React, LangGraph, pgvector, AWS Bedrock
-A LangGraph research agent bracketed by anti-hallucination guardrails, RAG over play-session history, and an LLM eval harness with a CI gate that fails the build on quality regression.
+**Wallye** · lead capture for trade show booths, live at [wallye.app](https://www.wallye.app) · TypeScript end to end
+Built and operated end to end. A multi-tenant platform where booth visitors play games on a kiosk and become qualified leads, designed offline-first so capture keeps working on unreliable venue networks.
 
 ## Stack
 
