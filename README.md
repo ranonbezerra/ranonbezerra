@@ -18,7 +18,9 @@ Built and operated end to end. A multi-tenant platform where booth visitors play
 ## Stack
 
 Backend: Python (FastAPI), TypeScript (NestJS), Kotlin (Spring Boot)
+
 Product: React, Flutter
+
 Data and infra: PostgreSQL, Redis, AWS, Docker, Kubernetes, GitHub Actions
 
 ## Contact
